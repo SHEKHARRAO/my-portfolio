@@ -21,7 +21,7 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 
 ## 🖼️ Screenshots
 
-![Portfolio Screenshot](./img/Screenshot.png)
+![Portfolio Screenshot](img/Screenshot.png)
 
 
 
